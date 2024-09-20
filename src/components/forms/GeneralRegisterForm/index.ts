@@ -1,0 +1,1 @@
+export { GeneralRegisterForm } from './GeneralRegisterForm';
