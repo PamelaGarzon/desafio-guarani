@@ -1,0 +1,1 @@
+export { usePersonRegisterForm } from './usePersonRegisterForm';
