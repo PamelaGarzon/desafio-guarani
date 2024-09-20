@@ -1,0 +1,1 @@
+export { useGetAddressByZipCode } from "./useGetAddressByZipCode";
