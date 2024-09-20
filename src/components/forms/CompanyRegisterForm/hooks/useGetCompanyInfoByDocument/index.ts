@@ -1,0 +1,1 @@
+export { useGetCompanyInfoByDocument } from "./useGetCompanyInfoByDocument";
