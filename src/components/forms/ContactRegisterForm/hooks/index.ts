@@ -1,0 +1,1 @@
+export { usePostContactRegister } from "./usePostContactRegister";
